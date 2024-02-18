@@ -1,0 +1,8 @@
+{
+  "name": "cuicui",
+  "logo": "https://i.imgur.com/oDi4cZb.jpeg",
+  "rpc_url": "http://43.134.84.201:9944",
+  "explorer_url": "http://43.134.84.201:4000",
+  "metrics_endpoint": "http://43.134.84.201:9615/metrics",
+  "id": "b18a8639-23f7-4b79-9445-933daacd2829"
+}
